@@ -13,6 +13,9 @@ pinned: false
 
 A web app that scores how well your resume matches a job description using NLP.
 
+## Live demo
+[Try it here](https://huggingface.co/spaces/Vader26/ats-resume-checker)
+
 ## What it does
 - Calculates a match score (0–100%) using TF-IDF and cosine similarity
 - Identifies keywords from the job description missing in your resume
