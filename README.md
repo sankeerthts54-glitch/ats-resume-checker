@@ -13,6 +13,8 @@ pinned: false
 
 A web app that scores how well your resume matches a job description using NLP.
 
+![App preview](Assets/preview.png)
+
 ## Live demo
 [Try it here](https://huggingface.co/spaces/Vader26/ats-resume-checker)
 
