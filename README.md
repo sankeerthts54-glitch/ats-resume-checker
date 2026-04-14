@@ -1,9 +1,17 @@
+---
+title: ATS Resume Checker
+emoji: 📄
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.44.0"
+app_file: app.py
+pinned: false
+---
+
 # ATS Resume Checker
 
 A web app that scores how well your resume matches a job description using NLP.
-
-## Live demo
-[Try it here](link-coming-soon)
 
 ## What it does
 - Calculates a match score (0–100%) using TF-IDF and cosine similarity
